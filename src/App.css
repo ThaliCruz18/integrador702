@@ -36,3 +36,87 @@
     transform: rotate(360deg);
   }
 }
+
+
+body {
+  background-color: #F5F7FA; /* Gris muy claro pastel */
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #4A4A4A;
+}
+
+.clientes-container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #F8BBD0; /* Rosa Pastel */
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.titulo {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #8F8565; /* Color cálido pastel */
+  margin-bottom: 20px;
+}
+
+.clientes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.cliente-card {
+  background-color: #D1C4E9; /* Morado Pastel */
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.cliente-card:hover {
+  transform: scale(1.02);
+}
+
+.cliente-id {
+  font-size: 20px;
+  font-weight: bold;
+  color: #8F8565;
+  text-align: center;
+  margin-bottom: 10px;
+  background-color: #F8BBD0; /* Rosa Pastel */
+  padding: 8px;
+  border-radius: 6px;
+}
+
+.cliente-info {
+  display: flex;
+  justify-content: space-between;
+  background-color: #F5F7FA; /* Gris muy claro pastel */
+  padding: 10px;
+  border-radius: 6px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.label {
+  font-weight: bold;
+  color: #8F8565;
+}
+
+.grafica-container {
+  margin: 20px 0;
+  text-align: center;
+}   
+
+/* App.css */
+.Pie {
+  width: 10%;
+  height: 10px;
+  margin: 0 auto;
+}
