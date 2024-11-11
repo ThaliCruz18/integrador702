@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ThaliCruz18/integrador-702.git/static/css/main.1e25ccc3.css",
-    "main.js": "/ThaliCruz18/integrador-702.git/static/js/main.67f8d86b.js",
-    "static/js/453.0d2d9050.chunk.js": "/ThaliCruz18/integrador-702.git/static/js/453.0d2d9050.chunk.js",
-    "static/media/logo.svg": "/ThaliCruz18/integrador-702.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ThaliCruz18/integrador-702.git/index.html",
-    "main.1e25ccc3.css.map": "/ThaliCruz18/integrador-702.git/static/css/main.1e25ccc3.css.map",
-    "main.67f8d86b.js.map": "/ThaliCruz18/integrador-702.git/static/js/main.67f8d86b.js.map",
-    "453.0d2d9050.chunk.js.map": "/ThaliCruz18/integrador-702.git/static/js/453.0d2d9050.chunk.js.map"
+    "main.css": "/integrador702/static/css/main.1e25ccc3.css",
+    "main.js": "/integrador702/static/js/main.e7dd69ec.js",
+    "static/js/453.0d2d9050.chunk.js": "/integrador702/static/js/453.0d2d9050.chunk.js",
+    "static/media/logo.svg": "/integrador702/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/integrador702/index.html",
+    "main.1e25ccc3.css.map": "/integrador702/static/css/main.1e25ccc3.css.map",
+    "main.e7dd69ec.js.map": "/integrador702/static/js/main.e7dd69ec.js.map",
+    "453.0d2d9050.chunk.js.map": "/integrador702/static/js/453.0d2d9050.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e25ccc3.css",
-    "static/js/main.67f8d86b.js"
+    "static/js/main.e7dd69ec.js"
   ]
 }
